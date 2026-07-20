@@ -13,7 +13,7 @@ name = "renewhelper-staging"
 # 注意：在一键部署过程中，Cloudflare 会提示您创建一个新的 KV 并自动填充 ID
 [[kv_namespaces]]
 binding = "RENEW_KV"
-id = "3c457101704848198d5555ee6b2871be"  # 留空，部署时会自动生成或提示关联
+id = "fbc122209f5e487f86c6d73e373762a3"  # 留空，部署时会自动生成或提示关联
 preview_id = ""
 
 # 设置定时任务 (Cron Triggers)
